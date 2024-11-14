@@ -1,0 +1,3 @@
+C:\Users\Acer\source\repos\Engine_Test\x64\Release\Engine_Test.vcxproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Engine_Test\x64\Release\EngineTest.Source.EWD.resources
+C:\Users\Acer\source\repos\Engine_Test\x64\Release\Engine_Test.vcxproj.GenerateResource.cache

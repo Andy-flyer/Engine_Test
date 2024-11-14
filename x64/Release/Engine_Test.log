@@ -1,0 +1,745 @@
+﻿  Filters.cpp
+  CDrawOpenGL.cpp
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(730,26): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(790,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(794,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(816,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(820,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(846,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(850,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(31,25): warning C4244: аргумент: преобразование "GLsizei" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(109,53): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(123,53): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(137,51): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(151,53): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(245,20): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\CDrawOpenGL.cpp(245,16): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+  DrawElements.cpp
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(730,26): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(790,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(794,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(816,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(820,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(846,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(850,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(83,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(84,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(103,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(104,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(107,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(108,16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\DrawElements.cpp(205,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  EngineData.cpp
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(76,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(77,45): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(79,49): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(85,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(95,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(98,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(103,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(112,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(116,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(123,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(129,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EngineData.cpp(135,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  EWD.cpp
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(730,26): warning C4244: =: преобразование "__int64" в "double", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(790,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(794,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(816,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(820,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(846,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.h(850,64): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.cpp(30,76): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.cpp(30,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.cpp(30,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.cpp(30,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Acer\source\repos\Engine_Test\Source\EWD.cpp(39,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  L_interp.cpp
+C:\Users\Acer\source\repos\Engine_Test\Source\L_interp.cpp(171,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  .NETFramework,Version=v4.6.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(733): warning C4793: `anonymous namespace'::stbi__cpuid3: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2613): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2614): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2615): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2616): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2617): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2618): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2619): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2620): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2623): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2624): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2627): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2628): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2629): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2630): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2631): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2632): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2633): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2634): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2637): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2641): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2641): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2642): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2642): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2643): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2643): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2644): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2644): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2647): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2647): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2648): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2648): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2649): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2649): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2650): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2650): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2653): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2653): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2654): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2654): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2655): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2655): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2656): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2656): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2660): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2664): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2665): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2666): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2667): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2670): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2670): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2671): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2671): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2674): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2674): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2675): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2675): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2678): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2678): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2679): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2679): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2682): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2683): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2683): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2684): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2685): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2685): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2686): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2687): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2687): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2688): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2689): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(2689): warning C4793: `anonymous namespace'::stbi__idct_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3694): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3695): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3696): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3697): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3698): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3699): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3700): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3704): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3705): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3706): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3707): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3708): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3711): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3712): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3712): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3713): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3713): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3716): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3717): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3718): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3719): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3720): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3721): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3722): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3723): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3724): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3727): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3728): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3729): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3732): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3733): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3736): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3737): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3738): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3739): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3742): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3743): warning C4793: `anonymous namespace'::stbi__YCbCr_to_RGB_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3546): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3547): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3548): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3549): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3550): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3551): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3552): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3553): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3560): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3561): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3562): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3563): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3569): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3570): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3571): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3572): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3573): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3574): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3575): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3578): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3579): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3580): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3581): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3584): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+C:\Users\Acer\source\repos\Engine_Test\_STB_IMAGE_\stb_image.h(3585): warning C4793: `anonymous namespace'::stbi__resample_row_hv_2_simd: функция скомпилирована как машинная:
+  	Обнаружена встроенная функция, которая не поддерживается в управляемом коде
+  Filters.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Engine_Test.vcxproj -> C:\Users\Acer\source\repos\Engine_Test\Engine_Test.exe

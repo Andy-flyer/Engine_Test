@@ -1,0 +1,64 @@
+  EngineTest.Source.EWD.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Engine_Test, Version=0.0.*, Culture=Инвариантный язык (Инвариантная страна): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class CDrawOpenGL: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.NativeWindow
+    Void .ctor(System.Windows.Forms.Form, Int32, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Fields:
+    Int32 startPosgroupBoxWidth : Public
+    Int32 startPosgroupBoxHeight : Public
+    Single offset_x : Public
+    Single offset_y : Public
+    Single oldposx : Public
+    Single oldposy : Public
+    Single posx : Public
+    Single posy : Public
+  Methods:
+    SwapBuffersOGL(): PrivateScope, Public, HideBySig
+    InitGL(): PrivateScope, Public, HideBySig
+    Render(): PrivateScope, Public, HideBySig
+    InitTexture(SByte*, UInt32* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    InitTexture(): PrivateScope, Public, HideBySig
+    Calc_Screen_Offsets(): PrivateScope, Public, HideBySig
+    DrawCell(Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    DrawArrow(Single, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    DrawArc(Single, Single, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    DrawScale(Single, Single, Single, Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    DrawLinePointer(Single, Single, Single, Single): PrivateScope, Public, HideBySig
+    DrawTexture(Texture*): PrivateScope, Public, HideBySig
+    ShowTexture(Texture*, UInt32* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    DrawValue(Single, Single, Single, Single, SByte*): PrivateScope, Public, HideBySig
+    DrawText(Single, Single, Single, SByte*): PrivateScope, Public, HideBySig
+    InitText(UInt32* IsImplicitlyDereferenced): PrivateScope, Public, HideBySig
+    ShowText(Single, Single, Single, UInt32* IsImplicitlyDereferenced, SByte*): PrivateScope, Public, HideBySig
+    MoveTextureY(Texture*): PrivateScope, Public, HideBySig
+    LimitationY(Texture*): PrivateScope, Public, HideBySig
+    ReSizeGLScene(Int32, Int32): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class EngineTest.EWD: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Double stepHeight : Public
+    Double stepSpeed : Public
+    Double stepTemperature : Public
+    Double minTemperature : Public
+    Double realTemperature : Public
+    Double frequency : Public
+    Double step : Public
+    Int32 fps : Public
